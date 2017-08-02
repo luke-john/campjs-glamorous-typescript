@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders expected things 1`] = `
+.glamor-3,
+[data-glamor-3] {
+  text-align: center;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  animation: animation_oy05gt infinite 20s linear;
+  height: 80px;
+  -webkit-animation: animation_oy05gt infinite 20s linear;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  font-size: large;
+}
+
+<div
+  className="glamor-3"
+>
+  <div
+    className="glamor-1"
+  >
+    <img
+      alt="logo"
+      className="glamor-0 App-logo"
+      src="logo.svg"
+    />
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <p
+    className="glamor-2"
+  >
+    To get started, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;
