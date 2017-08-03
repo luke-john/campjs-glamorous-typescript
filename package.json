@@ -9,7 +9,7 @@
     "@types/react-dom": "^15.5.1",
     "@types/react-test-renderer": "^15.5.2",
     "glamor": "^2.20.38",
-    "glamorous": "4.0.0-beta.0",
+    "glamorous": "^4.0.0",
     "jest": "^20.0.4",
     "jest-glamor-react": "^3.1.0",
     "polished": "^1.3.0",
